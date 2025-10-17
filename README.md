@@ -126,7 +126,7 @@ Comprobada
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 
@@ -137,40 +137,73 @@ Comprobada
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
 
-### 🌐 **WEB FULL-STACK**
+### 🌐 **WEB**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-00D9FF?style=for-the-badge&logo=responsive&logoColor=white)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
 
 ### 🗄️ **BASES DE DATOS**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Database Design](https://img.shields.io/badge/DB-Design-FF6B35?style=for-the-badge&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
 
-### 📱 **MÓVIL & TOOLS**
+### 📱 **MÓVIL**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/>
+
+### 🛠️ **HERRAMIENTAS**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </td>
 </tr>
 </table>
+
+### 🎨 **FRAMEWORKS & LIBRERÍAS**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+</p>
+
+### ☁️ **CLOUD & DEVOPS**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 
 </div>
 
@@ -197,7 +230,7 @@ Comprobada
 **🏆 WorldSkills Regional 2025**  
 **Categoría:** 09 IT Soluciones de Software para Negocios  
 **Posición:** 🥇 **PRIMER LUGAR**  
-**Representando:** Departamento de Caldas 🏴󠁣󠁯󠀱󠀷󠁿  
+**Representando:** Departamento de Caldas 🏴  
 **Fecha:** Primer semestre 2025
 
 <img src="https://img.shields.io/badge/🥇%20ORO%20REGIONAL-WORLDSKILLS%202025-FFD700?style=for-the-badge&labelColor=FF6B35&logo=trophy&logoColor=white"/>
@@ -306,6 +339,49 @@ de software para negocios de todo el país
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" /> **PROYECTOS DESTACADOS**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🚀 **Proyecto Empresarial WorldSkills**
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200"/>
+
+Sistema completo de gestión empresarial desarrollado para la competencia nacional
+
+**Stack:** Kotlin, Jetpack Compose, PHP, MySQL  
+**Logro:** 🥈 Medalla de Plata Nacional
+
+<img src="https://img.shields.io/badge/Estado-Completado-32CD32?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+</td>
+<td align="center" width="50%">
+
+### 💼 **Sistema de Gestión Corporativo**
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
+
+Plataforma web completa con administración de recursos y reportes
+
+**Stack:** PHP, JavaScript, SQL Server, HTML5/CSS3  
+**Features:** Dashboard interactivo, reportes PDF, gestión de usuarios
+
+<img src="https://img.shields.io/badge/Estado-En%20Producción-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122015-5d9792f2-be6a-4841-abb9-97313ad84fb0.png" width="50" /> **CONECTEMOS**
 
 <div align="center">
@@ -323,6 +399,17 @@ de software para negocios de todo el país
 <a href="mailto:yeinerparrarincon123456789@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-yeinerparrarincon123456789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/tu-perfil">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/yeinerparrarincon">
+  <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
 
 **🚀 Disponible para:**
 - 💼 Proyectos desafiantes
