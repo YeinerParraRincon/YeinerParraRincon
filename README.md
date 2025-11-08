@@ -1,348 +1,229 @@
-# <div align="center">🚀 **YEINER PARRA RINCÓN** 🚀<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></div>
+# <div align="center">⚡ YEINER PARRA RINCÓN ⚡</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SUBCAMPEÓN%20NACIONAL&fontSize=42&fontAlignY=32&desc=🥈%20Segundo%20Mejor%20de%20Colombia%20-%20WorldSkills%202025%20🥈&descAlignY=51&descAlign=50&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🥈%20SUBCAMPEÓN%20NACIONAL%20🥈&fontSize=50&fontAlignY=35&desc=Segundo%20Mejor%20de%20Colombia%20•%20WorldSkills%202025&descAlignY=55&descAlign=50&fontColor=fff&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00D9FF&background=FF000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+DESARROLLADOR;🥈+SUBCAMPEÓN+NACIONAL+WORLDSKILLS+2025;🎓+TECNÓLOGO+EN+SOFTWARE+SENA;💎+SEGUNDO+MEJOR+DE+COLOMBIA;🔥+INNOVACIÓN+•+PASIÓN+•+EXCELENCIA" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=💎+FULL-STACK+DEVELOPER+%7C+17+AÑOS;🥈+2DO+LUGAR+NACIONAL+WORLDSKILLS+2025;🚀+React+•+Laravel+•+Kotlin+•+Jetpack+Compose" alt="Typing SVG" />
   </a>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🥈%20SUBCAMPEÓN-NACIONAL%202025-silver?style=for-the-badge&labelColor=purple&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔥%202DO%20MEJOR-DE%20COLOMBIA-orange?style=for-the-badge&labelColor=green&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡%20EDAD-17%20AÑOS-cyan?style=for-the-badge&labelColor=darkblue&logoColor=white" />
+</p>
+
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+## 🎯 SOBRE MÍ
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> **SOBRE MÍ**
-
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🌟 **PERFIL PROFESIONAL**
-```yaml
-Nombre: "Yeiner Parra Rincón"
-Edad: 17 años
-Estado: "🥈 SUBCAMPEÓN NACIONAL"
-Pasión: "Desarrollo de Software"
-Logro: "2do Lugar Nacional 2025"
-Motto: "Código que transforma realidades"
+```javascript
+const yeiner = {
+    nombre: "Yeiner Parra Rincón",
+    edad: 17,
+    ubicacion: "La Dorada, Caldas 🇨🇴",
+    logro: "🥈 Subcampeón Nacional WorldSkills 2025",
+    titulo: "Tecnólogo ADSO - SENA",
+    pasion: "Crear soluciones que impacten",
+    
+    estadoActual: {
+        estudiando: ["React Avanzado", "Laravel", "Arquitecturas Escalables"],
+        trabajandoEn: "Proyectos empresariales de alto impacto",
+        buscando: "Oportunidades de desarrollo profesional"
+    },
+    
+    filosofia: "El código es arte, la excelencia es el estándar"
+};
 ```
 
-### ⚡ **DATOS CLAVE**
-- 🥈 **SUBCAMPEÓN NACIONAL WorldSkills 2025**
-- 🏆 **SEGUNDO MEJOR DE COLOMBIA en mi habilidad**
-- 🎓 **Tecnólogo ADSO (SENA)**  
-- 💻 **17 años de pasión y dedicación**
-- 🚀 **Especialista Full-Stack avanzado**
-- ⭐ **Orgullo de Caldas**
+### 🏆 LOGROS DESTACADOS
+
+```diff
++ 🥇 Oro Regional - WorldSkills 2025 (Caldas)
++ 🏆 Ganador Pre-Nacional - WorldSkills 2025
++ 🥈 Plata Nacional - WorldSkills 2025 (2do lugar Colombia)
++ 🎓 Tecnólogo ADSO - SENA (Graduado con Excelencia)
+```
 
 </td>
-<td width="50%">
+<td width="40%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
   
-  ### 🏆 **TRAYECTORIA DE EXCELENCIA**
+  <br><br>
   
-  <img src="https://img.shields.io/badge/🥈%20SUBCAMPEÓN-NACIONAL%202025-C0C0C0?style=for-the-badge&labelColor=FF1493&logo=trophy&logoColor=white"/>
+  ### 🌟 EN NÚMEROS
   
-  <img src="https://img.shields.io/badge/🔥%202DO%20MEJOR-DE%20COLOMBIA-FF4500?style=for-the-badge&labelColor=32CD32&logo=award&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proyectos-20+-00D9FF?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Experiencia-3%20años-FF6B35?style=flat-square&logo=calendar" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack-32CD32?style=flat-square&logo=code" />
   
-  <img src="https://img.shields.io/badge/⚡%20DISPONIBLE-PROYECTOS%20ÉLITE-00D9FF?style=for-the-badge&labelColor=8A2BE2&logo=rocket&logoColor=white"/>
+  <br><br>
+  
+  **💼 Disponible para proyectos**
+  
+  <img src="https://img.shields.io/badge/Remote-✅-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Freelance-✅-success?style=flat-square" />
+  
 </div>
 
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" /> **FORMACIÓN ACADÉMICA ÉLITE**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=100&section=header&text=🎓%20SENA%20ADSO%20🎓&fontSize=28&fontColor=fff&desc=Análisis%20y%20Desarrollo%20de%20Software&descAlign=50&descAlignY=70"/>
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
-
-### 🏛️ **INSTITUCIÓN**
-**SENA**  
-Servicio Nacional  
-de Aprendizaje
-
-</td>
-<td align="center" width="34%">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80"/>
-
-### 🎯 **PROGRAMA**
-**TECNÓLOGO ADSO**  
-Análisis y Desarrollo  
-de Software
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276f5ea8-4b8a-4e68-966b-8cb5c8bb26d5.png" width="80"/>
-
-### 📊 **ESTADO**
-**✅ FORMACIÓN COMPLETADA**  
-Excelencia Académica  
-Comprobada
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/COMPETENCIAS%20DOMINADAS-DESARROLLO%20EMPRESARIAL-00D9FF?style=for-the-badge&labelColor=FF1493&logo=code&logoColor=white"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1c7f4-3a79-4b82-9d85-23e7ac5fa571.png" width="50" /> **STACK TECNOLÓGICO AVANZADO**
+## 🛠️ TECNOLOGÍAS & HERRAMIENTAS
 
 <div align="center">
 
-### 🚀 **TECNOLOGÍAS DOMINADAS**
+### ⚡ LENGUAJES DE PROGRAMACIÓN
 
-<table>
-<tr>
-<td align="center" width="20%">
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+### 🎨 FRONTEND
 
-### 💻 **LENGUAJES**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-</td>
-<td align="center" width="20%">
+### ⚙️ BACKEND
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
 
-### 🌐 **WEB**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📱 DESARROLLO MÓVIL
 
-</td>
-<td align="center" width="20%">
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+### 🗄️ BASES DE DATOS
 
-### 🗄️ **BASES DE DATOS**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-</td>
-<td align="center" width="20%">
+### 🔧 HERRAMIENTAS
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-
-### 📱 **MÓVIL**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-</td>
-<td align="center" width="20%">
-
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/>
-
-### 🛠️ **HERRAMIENTAS**
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</td>
-</tr>
-</table>
-
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122028-c5f08c9a-0eb1-4524-be78-7d96c4fabedc.png" width="50" /> **LOGROS Y EXPERIENCIAS ÉLITE**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,9,6&height=120&section=header&text=🥈%20SUBCAMPEÓN%20NACIONAL%20🥈&fontSize=32&fontColor=fff&desc=Segundo%20Mejor%20de%20Colombia%20-%20WorldSkills%202025&descAlign=50&descAlignY=80"/>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🥇 **MEDALLA DE ORO REGIONAL**
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100"/>
-
-**🏆 WorldSkills Regional 2025**  
-**Categoría:** 09 IT Soluciones de Software para Negocios  
-**Posición:** 🥇 **PRIMER LUGAR**  
-**Representando:** Departamento de Caldas 🏴  
-**Fecha:** Primer semestre 2025
-
-<img src="https://img.shields.io/badge/🥇%20ORO%20REGIONAL-WORLDSKILLS%202025-FFD700?style=for-the-badge&labelColor=FF6B35&logo=trophy&logoColor=white"/>
-
-</td>
-<td align="center" width="34%">
-
-### 🏆 **CAMPEÓN PRE-NACIONAL**
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/>
-
-**🚀 WorldSkills Pre-Nacional 2025**  
-**Estado:** ✅ **GANADOR**  
-**Logro:** Clasificado para Nacional  
-**Representando:** Colombia 🇨🇴  
-**Fecha:** Mediados de 2025
-
-<img src="https://img.shields.io/badge/🏆%20PRE%20NACIONAL-GANADOR%202025-32CD32?style=for-the-badge&labelColor=FF1493&logo=award&logoColor=white"/>
-
-</td>
-<td align="center" width="33%">
-
-### 🥈 **MEDALLA DE PLATA NACIONAL**
-<img src="https://user-images.githubusercontent.com/74038190/216122015-5d9792f2-be6a-4841-abb9-97313ad84fb0.png" width="100"/>
-
-**🇨🇴 WorldSkills Nacional 2025**  
-**Posición:** 🥈 **SEGUNDO LUGAR**  
-**Logro:** **2do Mejor de Colombia**  
-**Categoría:** IT Software Solutions  
-**Fecha:** Octubre 2025
-
-<img src="https://img.shields.io/badge/🥈%20PLATA%20NACIONAL-2DO%20LUGAR-C0C0C0?style=for-the-badge&labelColor=4169E1&logo=trophy&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  
-### 🎯 **TRAYECTORIA COMPLETA 2025**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-<table>
-<tr>
-<td align="center">
-
-### 📅 **CRONOLOGÍA DE LOGROS**
-
-**🥇 Enero-Marzo 2025:** Campeón Regional Caldas  
-**🏆 Abril-Junio 2025:** Ganador Pre-Nacional  
-**🥈 Octubre 2025:** Subcampeón Nacional  
-
-<img src="https://img.shields.io/badge/🔥%20SEGUNDO%20MEJOR-DE%20COLOMBIA%202025-FF4500?style=for-the-badge&labelColor=8A2BE2&logo=award&logoColor=white"/>
-
-**🏅 Logro Histórico:** Entre los 2 mejores desarrolladores  
-de software para negocios de todo el país
-
-**🎯 Resultado:** Medalla de Plata Nacional  
-**💪 Categoría:** 09 IT Software Solutions for Business  
-
-</td>
-</tr>
-</table>
-
-> ### 💭 *"De campeón regional a subcampeón nacional. El segundo lugar más alto del país demuestra que el esfuerzo y la dedicación siempre valen la pena. Orgulloso de representar a Caldas y Colombia."*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122010-ca76a6ad-732d-4c99-8bb0-2dd45f56f09d.png" width="50" /> **ESTADÍSTICAS DE GITHUB**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeinerparrarincon&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yeinerparrarincon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeinerparrarincon&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=yeinerparrarincon&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF" width="600"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeinerparrarincon&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true" width="800"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" /> **PROYECTOS DESTACADOS**
+## 🚀 PROYECTOS DESTACADOS
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🚀 **Proyecto Empresarial WorldSkills**
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200"/>
+### 🏆 Sistema WorldSkills Nacional
 
-Sistema completo de gestión empresarial desarrollado para la competencia nacional
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" />
 
-**Stack:** Kotlin, Jetpack Compose, PHP, MySQL  
-**Logro:** 🥈 Medalla de Plata Nacional
+**Proyecto que me llevó al subcampeonato nacional**
 
-<img src="https://img.shields.io/badge/Estado-Completado-32CD32?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+- 📱 App móvil con Kotlin & Jetpack Compose
+- 🌐 Backend RESTful con PHP & MySQL
+- 🎨 UI/UX moderna y responsive
+- 🔒 Sistema de autenticación seguro
+- 📊 Dashboard con reportes en tiempo real
+
+**Stack:** `Kotlin` `Jetpack Compose` `PHP` `MySQL`
+
+<img src="https://img.shields.io/badge/Estado-🥈%20Medalla%20de%20Plata-silver?style=flat-square" />
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 💼 **Sistema de Gestión Corporativo**
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
+### 💼 Plataforma de Gestión Empresarial
 
-Plataforma web completa con administración de recursos y reportes
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" />
 
-**Stack:** PHP, JavaScript, SQL Server, HTML5/CSS3  
-**Features:** Dashboard interactivo, reportes PDF, gestión de usuarios
+**Sistema completo para administración corporativa**
 
-<img src="https://img.shields.io/badge/Estado-En%20Producción-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+- ⚛️ Frontend con React & Tailwind
+- 🔥 Backend Laravel con API REST
+- 📈 Dashboards interactivos
+- 👥 Gestión de usuarios y roles
+- 📄 Generación de reportes PDF/Excel
+
+**Stack:** `React` `Laravel` `MySQL` `Tailwind`
+
+<img src="https://img.shields.io/badge/Estado-En%20Producción-success?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 App de E-commerce Móvil
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce16ddcf8.gif" width="100%" />
+
+**Aplicación de comercio electrónico nativa**
+
+- 🛒 Carrito de compras inteligente
+- 💳 Integración de pagos
+- 🔔 Notificaciones push
+- 📦 Tracking de pedidos
+- ⭐ Sistema de reviews
+
+**Stack:** `Kotlin` `Jetpack Compose` `Firebase`
+
+<img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portal Web Corporativo
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" />
+
+**Sitio web empresarial de alto rendimiento**
+
+- ⚡ SPA con React y React Router
+- 🎨 Animaciones con Framer Motion
+- 📱 Diseño 100% responsive
+- 🚀 Optimizado para SEO
+- 📊 Analytics integrado
+
+**Stack:** `React` `Node.js` `MongoDB` `Tailwind`
+
+<img src="https://img.shields.io/badge/Estado-Completado-success?style=flat-square" />
 
 </td>
 </tr>
@@ -352,74 +233,121 @@ Plataforma web completa con administración de recursos y reportes
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122015-5d9792f2-be6a-4841-abb9-97313ad84fb0.png" width="50" /> **CONECTEMOS**
+## 📊 ACTIVIDAD EN GITHUB
 
 <div align="center">
   
-### 🤝 **¿LISTO PARA COLABORAR EN PROYECTOS ÉPICOS?**
+<img src="https://github-readme-streak-stats.vercel.app/?user=yeinerparrarincon&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF&card_width=800" width="800"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeinerparrarincon&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true" width="900"/>
+
+</div>
+
+---
+
+## 🎯 LO QUE ME HACE DIFERENTE
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
+
+### 🏆 COMPETITIVO
+
+Medalla de plata nacional demuestra mi capacidad de enfrentar desafíos de alto nivel
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" />
+
+### 🚀 INNOVADOR
+
+Siempre buscando las últimas tecnologías y mejores prácticas
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d1c7f4-3a79-4b82-9d85-23e7ac5fa571.png" width="80" />
+
+### 💡 SOLUCIONADOR
+
+Transformo problemas complejos en soluciones elegantes
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122015-5d9792f2-be6a-4841-abb9-97313ad84fb0.png" width="80" />
+
+### 🎓 EN CONSTANTE APRENDIZAJE
+
+17 años con hambre de conocimiento y crecimiento
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 CONECTEMOS
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
 
-<table>
-<tr>
-<td align="center">
+<br><br>
 
-### 📧 **CONTACTO PROFESIONAL**
+### 📬 ¿TIENES UN PROYECTO EN MENTE?
+
+<br>
 
 <a href="mailto:yeinerparrarincon123456789@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yeinerparrarincon123456789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-yeinerparrarincon123456789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<a href="https://linkedin.com/in/tu-perfil">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="https://github.com/yeinerparrarincon">
-  <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yeinerparrarincon">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/yeinerparrarincon">
+  <img src="https://img.shields.io/badge/Twitter-Seguir-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <br><br>
 
-**🚀 Disponible para:**
-- 💼 Proyectos desafiantes
-- 🤝 Colaboraciones técnicas  
-- 📚 Oportunidades profesionales
-- 🏆 Competencias de desarrollo
+**🚀 DISPONIBLE PARA:**
 
-**🥈 Subcampeón Nacional 2025 - Segundo Mejor de Colombia**
+<img src="https://img.shields.io/badge/💼%20Freelance-Abierto%20a%20proyectos-success?style=flat-square" />
+<img src="https://img.shields.io/badge/🤝%20Colaboraciones-Interesado-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/🏢%20Tiempo%20Completo-Considerando%20ofertas-orange?style=flat-square" />
 
-</td>
-</tr>
-</table>
+<br><br>
+
+> ### 💭 *"A los 17 años, subcampeón nacional. Mañana, quién sabe qué logros vendrán. El límite no existe cuando la pasión impulsa el código."*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=¡GRACIAS%20POR%20VISITAR!&fontSize=32&fontColor=fff&desc=🥈%20Subcampeón%20Nacional%20WorldSkills%202025%20-%20Orgullo%20de%20Colombia%20🥈&descAlign=50&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=GRACIAS%20POR%20VISITAR%20MI%20PERFIL&fontSize=28&fontColor=fff&animation=fadeIn&desc=🥈%20Segundo%20Mejor%20de%20Colombia%20•%20WorldSkills%202025%20🥈&descAlign=50&descAlignY=80"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=yeinerparrarincon&style=for-the-badge&color=00D9FF&labelColor=000000" />
   
-  ### ⚡ *"Segundo en la nación, primero en dedicación"* ⚡
+  <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=yeinerparrarincon&style=for-the-badge&color=00D9FF&labelColor=000000"/>
-</div>
-
----
-
-<div align="center">
+  ⭐ **Si te gusta mi trabajo, no olvides dar una estrella a mis repositorios** ⭐
   
-**Crédito:** [Yeiner Parra Rincón](https://github.com/yeinerparrarincon) - Subcampeón Nacional WorldSkills 2025  
-**Última actualización:** Octubre 2025 ⚡
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
