@@ -119,7 +119,7 @@ Estoy abierto a proyectos freelance, colaboraciones y oportunidades profesionale
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-yeinerparrarincon123456789@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yeinerparrarincon123456789@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-yeinerparrarincon123456789@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rinconparrayeiner@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-YeinerParraRincon-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YeinerParraRincon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yeinerparrarincon-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeinerparrarincon)
 
