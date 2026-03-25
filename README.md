@@ -16,7 +16,7 @@
 
 Desarrollador Full-Stack de 17 años formado en el **SENA** como Tecnólogo en Análisis y Desarrollo de Software (ADSO). Me apasiona construir aplicaciones completas — desde interfaces móviles con Kotlin hasta sistemas web con React y Laravel.
 
-Competí en **WorldSkills 2025** en la categoría de It soluciones de software, logrando:
+Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, logrando:
 
 - 🥇 **Primer lugar Regional** — WorldSkills Caldas 2025
 - 🏆 **Segundo Pre-Nacional** — WorldSkills Colombia 2025
@@ -50,6 +50,13 @@ Competí en **WorldSkills 2025** en la categoría de It soluciones de software, 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
+**DevOps & Sistemas**
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Terminal](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=linux&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+
 **Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -60,11 +67,32 @@ Competí en **WorldSkills 2025** en la categoría de It soluciones de software, 
 
 ---
 
+## 🐧 Experiencia con Linux
+
+- Manejo de terminal (`cat`, `grep`, `kill`, `chmod`, `ps`)
+- Gestión de procesos y monitoreo del sistema
+- Administración de permisos y usuarios
+- Uso de herramientas de red (`arp-scan`, `ping`, `netstat`)
+- Automatización básica con Bash
+- Configuración de entornos en Linux y WSL
+- Uso de Linux como entorno para desarrollo backend
+
+---
+
+## 🚀 Enfoque Técnico
+
+- Desarrollo Full-Stack (Frontend + Backend + Base de datos)
+- Construcción de soluciones reales orientadas a negocio
+- Código limpio, modular y escalable
+- Bases en Linux aplicadas a backend, ciberseguridad y DevOps
+
+---
+
 ## 📂 Proyectos Destacados
 
 ### 🐄 [Ganadería — Plataforma Web Completa](https://github.com/YeinerParraRincon/Ganaderia)
 
-Sistema web completo para la gestión ganadera, diseñado con enfoque en usabilidad y funcionalidad real para el sector agropecuario.
+Sistema web completo para la gestión ganadera.
 
 - Registro y seguimiento de ganado
 - Control de inventario y producción
@@ -76,11 +104,11 @@ Sistema web completo para la gestión ganadera, diseñado con enfoque en usabili
 
 ### 🏆 [Proyectos WorldSkills — Competencia Nacional](https://github.com/YeinerParraRincon/Proyectos-Wordskills)
 
-Colección de proyectos desarrollados durante mi preparación para la competencia WorldSkills 2025. Incluye ejercicios, prototipos y soluciones completas construidas en C#.
+Proyectos desarrollados durante la preparación para WorldSkills.
 
-- Proyectos de práctica con C# para competencia
-- Soluciones a retos de lógica y arquitectura
-- Código limpio orientado a rendimiento bajo presión
+- Ejercicios en C#
+- Retos de lógica y arquitectura
+- Código optimizado bajo presión
 
 `C#` `.NET`
 
@@ -88,11 +116,11 @@ Colección de proyectos desarrollados durante mi preparación para la competenci
 
 ### ⚡ [API Code Generator](https://github.com/YeinerParraRincon/api-code-generator)
 
-Herramienta que genera automáticamente código JavaScript para consumir cualquier API mediante Fetch. También incluye cursos, clases y ejemplos para aprender a manejar APIs desde cero.
+Generador automático de código para consumo de APIs.
 
-- Generación automática de código Fetch
-- Cursos y ejemplos para aprender APIs
-- Interfaz sencilla y directa
+- Generación con Fetch
+- Ejemplos educativos
+- Interfaz simple
 
 `HTML` `TailwindCSS` `JavaScript`
 
