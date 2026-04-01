@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=React+%7C+Laravel+%7C+Kotlin+%7C+Jetpack+Compose;Construyendo+soluciones+que+generan+impacto+real;17+años+%7C+La+Dorada%2C+Caldas%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=React+%7C+Laravel+%7C+Kotlin+%7C+Jetpack+Compose;Python+%7C+Ciberseguridad+%7C+Hacking+Ético;Construyendo+soluciones+que+generan+impacto+real;17+años+%7C+La+Dorada%2C+Caldas%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,6 +15,8 @@
 ## 👋 Hola, soy Yeiner
 
 Desarrollador Full-Stack de 17 años formado en el **SENA** como Tecnólogo en Análisis y Desarrollo de Software (ADSO). Me apasiona construir aplicaciones completas — desde interfaces móviles con Kotlin hasta sistemas web con React y Laravel.
+
+También me interesa la **ciberseguridad y el hacking ético**, desarrollando herramientas educativas en Python orientadas a la seguridad ofensiva y defensiva.
 
 Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, logrando:
 
@@ -34,6 +36,7 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -49,6 +52,13 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Ciberseguridad & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Hacking Ético](https://img.shields.io/badge/Hacking_Ético-00FF41?style=flat-square&logo=hackthebox&logoColor=black)
 
 **DevOps & Sistemas**
 
@@ -75,7 +85,17 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 - Uso de herramientas de red (`arp-scan`, `ping`, `netstat`)
 - Automatización básica con Bash
 - Configuración de entornos en Linux y WSL
-- Uso de Linux como entorno para desarrollo backend
+- Uso de Linux como entorno para desarrollo backend y ciberseguridad
+
+---
+
+## 🐍 Python & Ciberseguridad
+
+- Scripting con Python 3 para automatización y herramientas de seguridad
+- Desarrollo de herramientas educativas de hacking ético
+- Cracking de hashes (MD5, SHA-1, SHA-256) mediante diccionarios
+- Manejo de librerías: `hashlib`, `argparse`, `os`, `sys`
+- Proyectos orientados a pentesting educativo en Kali Linux
 
 ---
 
@@ -85,10 +105,26 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 - Construcción de soluciones reales orientadas a negocio
 - Código limpio, modular y escalable
 - Bases en Linux aplicadas a backend, ciberseguridad y DevOps
+- Herramientas de seguridad educativas con Python
 
 ---
 
 ## 📂 Proyectos Destacados
+
+### 👻 [DarkHash — Hash Cracker Educativo](https://github.com/YeinerParraRincon/DarkHash)
+
+Herramienta de línea de comandos para análisis y cracking de hashes, desarrollada para Kali Linux con fines educativos y de hacking ético.
+
+- Soporte para MD5, SHA-1, SHA-256, SHA-512
+- Detección automática del tipo de hash
+- Ataque por diccionario con wordlist personalizable
+- Generación de hashes desde texto plano
+- Interfaz visual en terminal con colores ANSI
+- Modo interactivo y modo por argumentos (`argparse`)
+
+`Python` `Kali Linux` `Hacking Ético` `Ciberseguridad`
+
+---
 
 ### 🐄 [Ganadería — Plataforma Web Completa](https://github.com/YeinerParraRincon/Ganaderia)
 
