@@ -103,6 +103,9 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 
 ### 💀 [DarkSuite — Suite de Herramientas de Seguridad](https://github.com/YeinerParraRincon)
 
+🚧 DarkSuite actualmente se encuentra en desarrollo activo.
+Estoy constantemente agregando nuevas herramientas, optimizando rendimiento y mejorando funcionalidades para acercarlo cada vez más a un entorno profesional tipo toolkit de ciberseguridad.
+
 Colección de herramientas educativas de ciberseguridad desarrolladas en Python para Kali Linux. Todas construidas desde cero, orientadas a hacking ético, redes y OSINT.
 
 | Herramienta | Descripción |
