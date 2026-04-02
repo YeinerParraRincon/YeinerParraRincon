@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=React+%7C+Laravel+%7C+Kotlin+%7C+Jetpack+Compose;Python+%7C+Ciberseguridad+%7C+Hacking+Ético;Construyendo+soluciones+que+generan+impacto+real;17+años+%7C+La+Dorada%2C+Caldas%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=React+%7C+Laravel+%7C+Kotlin+%7C+Jetpack+Compose;Python+%7C+Ciberseguridad+%7C+Hacking+Ético;DarkHash+%7C+DarkFinder+%7C+DarkMap;Construyendo+soluciones+que+generan+impacto+real;17+años+%7C+La+Dorada%2C+Caldas%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
 
 </div>
 
@@ -94,7 +94,9 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 - Scripting con Python 3 para automatización y herramientas de seguridad
 - Desarrollo de herramientas educativas de hacking ético
 - Cracking de hashes (MD5, SHA-1, SHA-256) mediante diccionarios
-- Manejo de librerías: `hashlib`, `argparse`, `os`, `sys`
+- OSINT y búsqueda de usernames en múltiples plataformas
+- Escaneo de puertos TCP con multithreading
+- Manejo de librerías: `hashlib`, `requests`, `socket`, `argparse`, `concurrent.futures`
 - Proyectos orientados a pentesting educativo en Kali Linux
 
 ---
@@ -105,7 +107,7 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 - Construcción de soluciones reales orientadas a negocio
 - Código limpio, modular y escalable
 - Bases en Linux aplicadas a backend, ciberseguridad y DevOps
-- Herramientas de seguridad educativas con Python
+- Suite de herramientas de seguridad educativas con Python
 
 ---
 
@@ -116,13 +118,41 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 Herramienta de línea de comandos para análisis y cracking de hashes, desarrollada para Kali Linux con fines educativos y de hacking ético.
 
 - Soporte para MD5, SHA-1, SHA-256, SHA-512
-- Detección automática del tipo de hash
+- Detección automática del tipo de hash por longitud
 - Ataque por diccionario con wordlist personalizable
 - Generación de hashes desde texto plano
 - Interfaz visual en terminal con colores ANSI
 - Modo interactivo y modo por argumentos (`argparse`)
 
-`Python` `Kali Linux` `Hacking Ético` `Ciberseguridad`
+`Python` `Kali Linux` `hashlib` `Hacking Ético`
+
+---
+
+### 🔍 [DarkFinder — OSINT Username Finder](https://github.com/YeinerParraRincon/DarkFinder)
+
+Herramienta OSINT para buscar un nombre de usuario en más de 25 plataformas simultáneamente, similar a Sherlock.
+
+- Búsqueda paralela con `ThreadPoolExecutor` y `as_completed`
+- Detección inteligente de falsos positivos por redirects y palabras clave
+- Soporte para GitHub, Instagram, TikTok, Reddit, HackTheBox, TryHackMe y más
+- Base de datos de sitios extensible mediante `sites.json`
+- Resultados en tiempo real con colores ANSI
+
+`Python` `requests` `OSINT` `Threading` `Kali Linux`
+
+---
+
+### 🗺️ [DarkMap — Port Scanner](https://github.com/YeinerParraRincon/DarkMap)
+
+Escáner de puertos TCP desarrollado en Python, similar a nmap a nivel básico, con multithreading para mayor velocidad.
+
+- Escaneo de puertos con `socket` TCP
+- Multithreading con `ThreadPoolExecutor` (100+ hilos paralelos)
+- Soporte para IPs y dominios
+- Detección de servicios comunes (SSH, HTTP, MySQL, RDP)
+- Tiempo de escaneo y resumen de puertos abiertos
+
+`Python` `socket` `Threading` `Redes` `Kali Linux`
 
 ---
 
