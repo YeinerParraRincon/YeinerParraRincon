@@ -27,7 +27,7 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 - 🏆 **Segundo Pre-Nacional** — WorldSkills Colombia 2025
 - 🥈 **Segundo lugar Nacional** — WorldSkills Colombia 2025
 
-> "El código es arte, la excelencia es el estándar."
+> *"El código es arte, la excelencia es el estándar."*
 
 ---
 
@@ -101,18 +101,17 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 
 ---
 
-### 💀 [DarkSuite — Suite de Herramientas de Seguridad](https://github.com/YeinerParraRincon)
+### 💀 DarkSuite — Suite de Herramientas de Seguridad
 
-🚧 DarkSuite actualmente se encuentra en desarrollo activo.
-Estoy constantemente agregando nuevas herramientas, optimizando rendimiento y mejorando funcionalidades para acercarlo cada vez más a un entorno profesional tipo toolkit de ciberseguridad.
+> 🚧 En desarrollo activo — nuevas herramientas siendo agregadas constantemente.
 
-Colección de herramientas educativas de ciberseguridad desarrolladas en Python para Kali Linux. Todas construidas desde cero, orientadas a hacking ético, redes y OSINT.
+Colección de herramientas educativas de ciberseguridad construidas desde cero en Python para Kali Linux. Cada una resuelve un problema real de seguridad ofensiva/defensiva.
 
-| Herramienta | Descripción |
-|---|---|
-| 👻 [DarkHash](https://github.com/YeinerParraRincon/DarkHash) | Hash Cracker — MD5, SHA-1, SHA-256, SHA-512 por diccionario |
-| 🔍 [DarkFinder](https://github.com/YeinerParraRincon/DarkFinder) | OSINT Username Finder — busca perfiles en 25+ plataformas |
-| 🗺️ [DarkMap](https://github.com/YeinerParraRincon/DarkMap) | Port Scanner TCP — escaneo de puertos con multithreading |
+| Herramienta | Descripción | Repo |
+|---|---|---|
+| 👻 **DarkHash** | Hash Cracker — MD5, SHA-1, SHA-256, SHA-512 por diccionario | [→ Ver repo](https://github.com/YeinerParraRincon/DarkHash) |
+| 🔍 **DarkFinder** | OSINT Username Finder — busca perfiles en 25+ plataformas | [→ Ver repo](https://github.com/YeinerParraRincon/DarkFinder) |
+| 🗺️ **DarkMap** | Port Scanner TCP — escaneo de puertos con multithreading | [→ Ver repo](https://github.com/YeinerParraRincon/DarkMap) |
 
 `Python` `Kali Linux` `OSINT` `Networking` `Hacking Ético` `Threading`
 
@@ -120,17 +119,87 @@ Colección de herramientas educativas de ciberseguridad desarrolladas en Python 
 
 ### 👻 [DarkHash — Hash Cracker Educativo](https://github.com/YeinerParraRincon/DarkHash)
 
-- Soporte para MD5, SHA-1, SHA-256, SHA-512
+Herramienta de línea de comandos para análisis y cracking de hashes, construida para Kali Linux con fines educativos y de hacking ético.
+
+**¿Qué hace?** Detecta automáticamente el tipo de hash y lo crackea usando un diccionario personalizable.
+
+```bash
+# Crackear un hash MD5
+python darkhash.py -H 5f4dcc3b5aa765d61d8327deb882cf99 -w rockyou.txt
+```
+
+```
+╔══════════════════════════════════════════╗
+║           DarkHash v1.0 — by Yeiner      ║
+╠══════════════════════════════════════════╣
+║  Hash    : 5f4dcc3b5aa765d61d8327deb882cf99
+║  Tipo    : MD5 (detectado automáticamente)
+║  Wordlist: rockyou.txt (14,344,391 palabras)
+╠══════════════════════════════════════════╣
+║  [✓] HASH CRACKEADO
+║  Contraseña encontrada : password
+║  Intentos realizados   : 3,432
+║  Tiempo                : 0.87s
+╚══════════════════════════════════════════╝
+```
+
+```bash
+# Generar hash desde texto plano
+python darkhash.py -t "mipassword" --generate sha256
+```
+
+```
+[SHA-256] mipassword → e3b9e4d1f3a...9c2d
+```
+
+**Características:**
+- Soporte MD5, SHA-1, SHA-256, SHA-512
 - Detección automática del tipo de hash por longitud
 - Ataque por diccionario con wordlist personalizable
 - Generación de hashes desde texto plano
+- Interfaz visual en terminal con colores ANSI
 
 `Python` `hashlib` `argparse` `Kali Linux`
+
+[→ Ver repositorio completo](https://github.com/YeinerParraRincon/DarkHash)
 
 ---
 
 ### 🔍 [DarkFinder — OSINT Username Finder](https://github.com/YeinerParraRincon/DarkFinder)
 
+Herramienta OSINT que busca un nombre de usuario en más de 25 plataformas simultáneamente usando multithreading. Inspirada en Sherlock, construida desde cero.
+
+**¿Qué hace?** Dado un username, lanza búsquedas paralelas en todas las plataformas configuradas y reporta dónde existe ese perfil.
+
+```bash
+python darkfinder.py -u yeinerdev
+```
+
+```
+╔══════════════════════════════════════════╗
+║        DarkFinder v1.0 — OSINT Tool      ║
+╠══════════════════════════════════════════╣
+║  Target   : yeinerdev
+║  Platforms: 25
+║  Threads  : 10
+╠══════════════════════════════════════════╣
+
+  [✓] GitHub        → https://github.com/yeinerdev
+  [✓] Instagram     → https://instagram.com/yeinerdev
+  [✓] Twitter/X     → https://twitter.com/yeinerdev
+  [✓] Reddit        → https://reddit.com/u/yeinerdev
+  [✓] Dev.to        → https://dev.to/yeinerdev
+  [✗] TikTok        → No encontrado
+  [✗] Pinterest     → No encontrado
+  [✗] Twitch        → No encontrado
+
+╠══════════════════════════════════════════╣
+║  Encontrado en  : 5 / 25 plataformas
+║  Tiempo total   : 2.3s (paralelo)
+╚══════════════════════════════════════════╝
+```
+
+**Características:**
 - Búsqueda paralela en 25+ plataformas con `ThreadPoolExecutor`
 - Detección inteligente de falsos positivos por redirects
 - Base de datos de sitios extensible mediante `sites.json`
@@ -138,26 +207,71 @@ Colección de herramientas educativas de ciberseguridad desarrolladas en Python 
 
 `Python` `requests` `OSINT` `Threading` `Kali Linux`
 
+[→ Ver repositorio completo](https://github.com/YeinerParraRincon/DarkFinder)
+
 ---
 
-### 🗺️ [DarkMap — Port Scanner](https://github.com/YeinerParraRincon/DarkMap)
+### 🗺️ [DarkMap — Port Scanner TCP](https://github.com/YeinerParraRincon/DarkMap)
 
-- Escaneo de puertos TCP con `socket`
+Escáner de puertos TCP construido desde cero en Python con multithreading. Detecta puertos abiertos e identifica servicios comunes — funciona sobre IPs y dominios.
+
+**¿Qué hace?** Lanza 100+ conexiones simultáneas para escanear un rango de puertos y reportar cuáles están activos con el servicio que corren.
+
+```bash
+python darkmap.py -i scanme.nmap.org -p 1-1000
+```
+
+```
+╔══════════════════════════════════════════╗
+║          DarkMap v1.0 — Port Scanner     ║
+╠══════════════════════════════════════════╣
+║  Target  : scanme.nmap.org
+║  IP      : 45.33.32.156
+║  Rango   : 1 - 1000
+║  Hilos   : 100
+╠══════════════════════════════════════════╣
+
+  PORT     STATE    SERVICE
+  ──────────────────────────
+  22    │  OPEN  │  SSH
+  80    │  OPEN  │  HTTP
+  443   │  OPEN  │  HTTPS
+  3306  │  OPEN  │  MySQL
+  8080  │  OPEN  │  HTTP-Alt
+
+╠══════════════════════════════════════════╣
+║  Puertos abiertos : 5 / 1000
+║  Tiempo total     : 4.1s  ← (vs ~100s sin threading)
+╚══════════════════════════════════════════╝
+```
+
+```bash
+# Escaneo rápido de puertos más comunes
+python darkmap.py -i 192.168.1.1 --top
+```
+
+```
+  22   │  OPEN  │  SSH
+  80   │  OPEN  │  HTTP
+  [Resto cerrados]   Tiempo: 0.9s
+```
+
+**Características:**
+- Escaneo TCP con `socket` puro, sin dependencias externas
 - 100+ hilos paralelos con `ThreadPoolExecutor`
-- Soporte para IPs y dominios
-- Detección de servicios comunes (SSH, HTTP, MySQL, RDP)
+- Soporte para IPs y dominios (resolución automática)
+- Detección de servicios comunes (SSH, HTTP, MySQL, RDP, FTP...)
+- Modo `--top` para los 100 puertos más relevantes
 
 `Python` `socket` `Threading` `Redes` `Kali Linux`
+
+[→ Ver repositorio completo](https://github.com/YeinerParraRincon/DarkMap)
 
 ---
 
 ### 🐄 [Ganadería — Plataforma Web Completa](https://github.com/YeinerParraRincon/Ganaderia)
 
-Sistema web completo para la gestión ganadera.
-
-- Registro y seguimiento de ganado
-- Control de inventario y producción
-- Interfaz limpia y funcional
+Sistema web completo para la gestión ganadera — registro de animales, control de inventario y producción.
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
@@ -165,10 +279,7 @@ Sistema web completo para la gestión ganadera.
 
 ### 🏆 [Proyectos WorldSkills — Competencia Nacional](https://github.com/YeinerParraRincon/Proyectos-Wordskills)
 
-Proyectos desarrollados durante la preparación para WorldSkills.
-
-- Ejercicios en C#, retos de lógica y arquitectura
-- Código optimizado bajo presión de competencia
+Proyectos desarrollados bajo presión de competencia para WorldSkills 2025.
 
 `C#` `.NET`
 
@@ -176,7 +287,7 @@ Proyectos desarrollados durante la preparación para WorldSkills.
 
 ### ⚡ [API Code Generator](https://github.com/YeinerParraRincon/api-code-generator)
 
-Generador automático de código para consumo de APIs.
+Generador automático de código para consumo de APIs REST.
 
 `HTML` `TailwindCSS` `JavaScript`
 
