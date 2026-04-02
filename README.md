@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yeiner%20Parra%20Rincón&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20🥈%20Subcampeón%20Nacional%20WorldSkills%202025&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yeiner%20Parra%20Rincón&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20con%20enfoque%20en%20Backend%20%7C%20🥈%20WorldSkills%202025&descAlignY=58&descAlign=50&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=React+%7C+Laravel+%7C+Kotlin+%7C+Jetpack+Compose;Python+%7C+Ciberseguridad+%7C+Hacking+Ético;DarkHash+%7C+DarkFinder+%7C+DarkMap;Construyendo+soluciones+que+generan+impacto+real;17+años+%7C+La+Dorada%2C+Caldas%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=💻+Full-Stack+Developer+%7C+Enfoque+en+Backend;🔐+Especializándome+en+Ciberseguridad+y+Hacking+Ético;🐍+Construyendo+herramientas+de+seguridad+en+Python;17+años+%7C+La+Dorada%2C+Caldas%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,9 +14,12 @@
 
 ## 👋 Hola, soy Yeiner
 
-Desarrollador Full-Stack de 17 años formado en el **SENA** como Tecnólogo en Análisis y Desarrollo de Software (ADSO). Me apasiona construir aplicaciones completas — desde interfaces móviles con Kotlin hasta sistemas web con React y Laravel.
+💻 **Full-Stack Developer con mayor enfoque en Backend**
+🔐 En proceso de especialización en **Ciberseguridad y Hacking Ético**
 
-También me interesa la **ciberseguridad y el hacking ético**, desarrollando herramientas educativas en Python orientadas a la seguridad ofensiva y defensiva.
+Desarrollador de 17 años formado en el **SENA** como Tecnólogo en Análisis y Desarrollo de Software (ADSO). Tengo experiencia construyendo aplicaciones completas — desde interfaces móviles con Kotlin hasta APIs con Laravel — pero mi verdadero foco está en el **backend y la seguridad**.
+
+Actualmente desarrollo herramientas en **Python** orientadas a hacking ético, redes y OSINT, agrupadas bajo mi suite personal **DarkSuite**.
 
 Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, logrando:
 
@@ -32,19 +35,11 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 
 **Lenguajes**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Backend & Bases de Datos**
 
@@ -60,20 +55,34 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 ![Hacking Ético](https://img.shields.io/badge/Hacking_Ético-00FF41?style=flat-square&logo=hackthebox&logoColor=black)
 
-**DevOps & Sistemas**
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+**DevOps & Herramientas**
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Terminal](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=linux&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
-
-**Herramientas**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+## 🐍 Python & Ciberseguridad
+
+- Desarrollo de herramientas educativas de hacking ético en Python 3
+- Cracking de hashes (MD5, SHA-1, SHA-256) mediante ataques de diccionario
+- OSINT y búsqueda de perfiles en múltiples plataformas simultáneamente
+- Escaneo de puertos TCP con multithreading
+- Manejo de `hashlib`, `requests`, `socket`, `argparse`, `concurrent.futures`
+- Uso de Kali Linux como entorno principal de desarrollo en seguridad
 
 ---
 
@@ -85,58 +94,44 @@ Competí en **WorldSkills 2025** en la categoría de IT soluciones de software, 
 - Uso de herramientas de red (`arp-scan`, `ping`, `netstat`)
 - Automatización básica con Bash
 - Configuración de entornos en Linux y WSL
-- Uso de Linux como entorno para desarrollo backend y ciberseguridad
-
----
-
-## 🐍 Python & Ciberseguridad
-
-- Scripting con Python 3 para automatización y herramientas de seguridad
-- Desarrollo de herramientas educativas de hacking ético
-- Cracking de hashes (MD5, SHA-1, SHA-256) mediante diccionarios
-- OSINT y búsqueda de usernames en múltiples plataformas
-- Escaneo de puertos TCP con multithreading
-- Manejo de librerías: `hashlib`, `requests`, `socket`, `argparse`, `concurrent.futures`
-- Proyectos orientados a pentesting educativo en Kali Linux
-
----
-
-## 🚀 Enfoque Técnico
-
-- Desarrollo Full-Stack (Frontend + Backend + Base de datos)
-- Construcción de soluciones reales orientadas a negocio
-- Código limpio, modular y escalable
-- Bases en Linux aplicadas a backend, ciberseguridad y DevOps
-- Suite de herramientas de seguridad educativas con Python
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 👻 [DarkHash — Hash Cracker Educativo](https://github.com/YeinerParraRincon/DarkHash)
+---
 
-Herramienta de línea de comandos para análisis y cracking de hashes, desarrollada para Kali Linux con fines educativos y de hacking ético.
+### 💀 [DarkSuite — Suite de Herramientas de Seguridad](https://github.com/YeinerParraRincon)
+
+Colección de herramientas educativas de ciberseguridad desarrolladas en Python para Kali Linux. Todas construidas desde cero, orientadas a hacking ético, redes y OSINT.
+
+| Herramienta | Descripción |
+|---|---|
+| 👻 [DarkHash](https://github.com/YeinerParraRincon/DarkHash) | Hash Cracker — MD5, SHA-1, SHA-256, SHA-512 por diccionario |
+| 🔍 [DarkFinder](https://github.com/YeinerParraRincon/DarkFinder) | OSINT Username Finder — busca perfiles en 25+ plataformas |
+| 🗺️ [DarkMap](https://github.com/YeinerParraRincon/DarkMap) | Port Scanner TCP — escaneo de puertos con multithreading |
+
+`Python` `Kali Linux` `OSINT` `Networking` `Hacking Ético` `Threading`
+
+---
+
+### 👻 [DarkHash — Hash Cracker Educativo](https://github.com/YeinerParraRincon/DarkHash)
 
 - Soporte para MD5, SHA-1, SHA-256, SHA-512
 - Detección automática del tipo de hash por longitud
 - Ataque por diccionario con wordlist personalizable
 - Generación de hashes desde texto plano
-- Interfaz visual en terminal con colores ANSI
-- Modo interactivo y modo por argumentos (`argparse`)
 
-`Python` `Kali Linux` `hashlib` `Hacking Ético`
+`Python` `hashlib` `argparse` `Kali Linux`
 
 ---
 
 ### 🔍 [DarkFinder — OSINT Username Finder](https://github.com/YeinerParraRincon/DarkFinder)
 
-Herramienta OSINT para buscar un nombre de usuario en más de 25 plataformas simultáneamente, similar a Sherlock.
-
-- Búsqueda paralela con `ThreadPoolExecutor` y `as_completed`
-- Detección inteligente de falsos positivos por redirects y palabras clave
-- Soporte para GitHub, Instagram, TikTok, Reddit, HackTheBox, TryHackMe y más
+- Búsqueda paralela en 25+ plataformas con `ThreadPoolExecutor`
+- Detección inteligente de falsos positivos por redirects
 - Base de datos de sitios extensible mediante `sites.json`
-- Resultados en tiempo real con colores ANSI
+- Resultados en tiempo real con `as_completed`
 
 `Python` `requests` `OSINT` `Threading` `Kali Linux`
 
@@ -144,13 +139,10 @@ Herramienta OSINT para buscar un nombre de usuario en más de 25 plataformas sim
 
 ### 🗺️ [DarkMap — Port Scanner](https://github.com/YeinerParraRincon/DarkMap)
 
-Escáner de puertos TCP desarrollado en Python, similar a nmap a nivel básico, con multithreading para mayor velocidad.
-
-- Escaneo de puertos con `socket` TCP
-- Multithreading con `ThreadPoolExecutor` (100+ hilos paralelos)
+- Escaneo de puertos TCP con `socket`
+- 100+ hilos paralelos con `ThreadPoolExecutor`
 - Soporte para IPs y dominios
 - Detección de servicios comunes (SSH, HTTP, MySQL, RDP)
-- Tiempo de escaneo y resumen de puertos abiertos
 
 `Python` `socket` `Threading` `Redes` `Kali Linux`
 
@@ -172,9 +164,8 @@ Sistema web completo para la gestión ganadera.
 
 Proyectos desarrollados durante la preparación para WorldSkills.
 
-- Ejercicios en C#
-- Retos de lógica y arquitectura
-- Código optimizado bajo presión
+- Ejercicios en C#, retos de lógica y arquitectura
+- Código optimizado bajo presión de competencia
 
 `C#` `.NET`
 
@@ -183,10 +174,6 @@ Proyectos desarrollados durante la preparación para WorldSkills.
 ### ⚡ [API Code Generator](https://github.com/YeinerParraRincon/api-code-generator)
 
 Generador automático de código para consumo de APIs.
-
-- Generación con Fetch
-- Ejemplos educativos
-- Interfaz simple
 
 `HTML` `TailwindCSS` `JavaScript`
 
