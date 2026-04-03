@@ -115,6 +115,8 @@ Colección de herramientas educativas de ciberseguridad construidas desde cero e
 
 `Python` `Kali Linux` `OSINT` `Networking` `Hacking Ético` `Threading`
 
+[→ Ver repositorio completo](https://github.com/YeinerParraRincon/DarkSuite)
+
 ---
 
 ### 👻 [DarkHash — Hash Cracker Educativo](https://github.com/YeinerParraRincon/DarkHash)
