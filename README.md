@@ -17,7 +17,7 @@
 💻 **Full-Stack Developer con mayor enfoque en Backend**
 🔐 En proceso de especialización en **Ciberseguridad y Hacking Ético**
 
-Desarrollador de 17 años formado en el **SENA** como Tecnólogo en Análisis y Desarrollo de Software (ADSO). Tengo experiencia construyendo aplicaciones completas — desde interfaces móviles con Kotlin hasta APIs con Laravel — pero mi verdadero foco está en el **backend y la seguridad**.
+Desarrollador de 18 años formado en el **SENA** como Tecnólogo en Análisis y Desarrollo de Software (ADSO). Tengo experiencia construyendo aplicaciones completas — desde interfaces móviles con Kotlin hasta APIs con Laravel — pero mi verdadero foco está en el **backend y la seguridad**.
 
 Actualmente desarrollo herramientas en **Python** orientadas a hacking ético, redes y OSINT, agrupadas bajo mi suite personal **DarkSuite**.
 
